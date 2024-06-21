@@ -34,13 +34,13 @@ The backend project utilizes dependencies managed by Maven, specified in the `po
 
 Aisles_Table
 ![Table for Aisles](https://github.com/RincisM/Warehouse_Vision_Layout_Parser/blob/ed1a5643e5894304d01295ceef3d74d13ed669fd/Screenshots/aisles_table.png)
-
+---
 Images_Table
 ![Table for Images](https://github.com/RincisM/Warehouse_Vision_Layout_Parser/blob/58f3c6930508a926982efb2069d4a9af3697f15c/Screenshots/image_table.png)
-
+---
 Postman_Query
 ![Sample Query for the Application using Postman](https://github.com/RincisM/Warehouse_Vision_Layout_Parser/blob/58f3c6930508a926982efb2069d4a9af3697f15c/Screenshots/postman_query.png)
-
+---
 JSON Result
 ![Sample JSON Result](https://github.com/RincisM/Warehouse_Vision_Layout_Parser/blob/58f3c6930508a926982efb2069d4a9af3697f15c/Screenshots/Sample_JSON_result.png)
 
