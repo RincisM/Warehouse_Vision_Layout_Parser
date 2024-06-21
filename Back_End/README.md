@@ -2,10 +2,6 @@
 
 This section contains the backend implementation of the project using Spring Boot.
 
-## Project Overview
-
-This project leverages Spring Boot as the backend framework to automate the extraction of crucial information from warehouse floorplan images. Utilizing contour detection, the system identifies and counts aisles and racks within these layouts.
-
 ## File Structure
 
 The backend files are organized as follows under `src/main/java`:
