@@ -24,11 +24,11 @@ Welcome Screen
 
 Response Screen
 ---
-[!Response Screen](https://github.com/RincisM/Warehouse_Vision_Layout_Parser/blob/f58537e42f3a09f3b586e115fc59ec6c81e08fe6/Screenshots/Response_Screen.png)
+![Response Screen](https://github.com/RincisM/Warehouse_Vision_Layout_Parser/blob/f58537e42f3a09f3b586e115fc59ec6c81e08fe6/Screenshots/Response_Screen.png)
 
 3D Layout - Top View
-[!Top View of 3D Layout](https://github.com/RincisM/Warehouse_Vision_Layout_Parser/blob/f58537e42f3a09f3b586e115fc59ec6c81e08fe6/Screenshots/3D_1.png)
+![Top View of 3D Layout](https://github.com/RincisM/Warehouse_Vision_Layout_Parser/blob/f58537e42f3a09f3b586e115fc59ec6c81e08fe6/Screenshots/3D_1.png)
 
 3D Layout - Side View
-[!Side View of 3D Layout](https://github.com/RincisM/Warehouse_Vision_Layout_Parser/blob/f58537e42f3a09f3b586e115fc59ec6c81e08fe6/Screenshots/3D_2.png)
+![Side View of 3D Layout](https://github.com/RincisM/Warehouse_Vision_Layout_Parser/blob/f58537e42f3a09f3b586e115fc59ec6c81e08fe6/Screenshots/3D_2.png)
 
