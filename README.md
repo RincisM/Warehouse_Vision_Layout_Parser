@@ -10,6 +10,8 @@ This project leverages Spring Boot as the backend framework to automate the extr
   - [Back_End/README.md](Back_End/README.md)
 - **Front_End**: Contains the frontend implementation using ReactJS with Vite.
   - [Front_End/README.md](Front_End/README.md)
+- **Screenshots**: Contains Screenshots of the Working Module.
+  - [Screenshots](Screenshots)
 
 ## Screenshots
 
