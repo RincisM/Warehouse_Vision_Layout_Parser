@@ -33,7 +33,7 @@ The backend project utilizes dependencies managed by Maven, specified in the `po
 ## Screenshots
 
 Aisle_Table
-![Table for Aisles](Warehouse_Vision_Layout_Parser/Screenshots/aisles_table.png)
+![Table for Aisles](https://github.com/RincisM/Warehouse_Vision_Layout_Parser/blob/ed1a5643e5894304d01295ceef3d74d13ed669fd/Screenshots/aisles_table.png)
 
 Images_Table
 ![Table for Images](Warehouse_Vision_Layout_Parser/Screenshots/image_table.png)
