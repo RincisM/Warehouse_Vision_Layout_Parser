@@ -33,4 +33,14 @@ The backend project utilizes dependencies managed by Maven, specified in the `po
 ## Screenshots
 
 Aisle_Table
+![Table for Aisles](Screenshots/aisles_table.png)
+
+Images_Table
+![Table for Images](Screenshots/image_table.png)
+
+Postman_Query
+![Sample Query for the Application using Postman](Screenshots/postman_query.png)
+
+JSON Result
+![Sample JSON Result](Screenshots/Sample_JSON_result.png)
 
