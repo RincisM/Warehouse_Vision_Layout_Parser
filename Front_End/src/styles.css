@@ -1,0 +1,102 @@
+/* Base HTML and Body styling */
+html, body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+  overflow: visible;
+}
+
+/* Main App Container */
+.app-container {
+  display: flex;
+  flex-direction: column;
+  min-height: 100%;
+  background-color: #F8F9FA; /* Light gray background */
+}
+
+/* Banner Section */
+.banner-container {
+  background-image: url('banner.jpg');
+  background-size: cover;
+  background-position: center;
+  height: 200px;
+}
+
+/* Project Information Section */
+.project-info {
+  background-color: linear-gradient(to right, #ffffff, #f1f1f1); /* Light gray for contrast */
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  padding: 20px;
+  color: #333; /* Dark gray text for readability */
+  text-align: center;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  margin: 20px;
+}
+
+#abstract {
+  text-align: justify;
+  text-indent: 40px;
+}
+
+/* Header Section */
+.header-container {
+  background-color: #007BFF; /* Blue background */
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+/* Upload Button and Section Styling */
+.uploader-container {
+  background-color: #E8F0FE; /* Light Blue background */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+
+/* Upload button style */
+.upload-button {
+  background-color: #FFFFFF; /* White button */
+  border: none;
+  padding: 15px 30px;
+  font-size: 18px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-weight: bold;
+  color: #357ABD;
+  cursor: pointer;
+  width: 100%; /* Full width button */
+  border-radius: 5px; /* Rounded corners for the button */
+  box-shadow: 0 4px 6px rgba(0,0,0,0.15); /* Shadow for depth */
+  transition: background-color 0.3s ease-in-out; /* Smooth transition for hover */
+}
+
+.upload-button:hover {
+  background-color: #357ABD; /* Slightly darker blue on hover */
+  color: #ffffff;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-weight: bold;
+}
+
+/* Canvas Container for Rendering */
+.canvas-container {
+  flex-grow: 1;
+  overflow: hidden; 
+  background-color: #ffffff; 
+}
+
+
+/* JSON Display Container */
+.json-display-container {
+  padding: 20px;
+  background-color: #ffffff; /* White background for contrast */
+  margin: 20px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.json-display {
+  font-family: 'Courier New', Courier, monospace;
+  white-space: pre-wrap;
+  word-wrap: break-word;
+}
